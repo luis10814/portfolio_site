@@ -1,1 +1,5 @@
-My Portfolio sight. Built using HTML, CSS, and JavaScript.
+# Portfolio Site #
+  My Portfolio site hoseted on github. This shows off my resueme and github repos!
+
+  *Visit site
+    * luis10814.github.io/portfolio_site
